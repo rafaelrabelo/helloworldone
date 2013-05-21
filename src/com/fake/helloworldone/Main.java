@@ -12,7 +12,7 @@ public class Main {
         System.out.println("commit from user x");
         System.out.println("y");
         System.out.println("x2");
-        
+        System.out.println("y2");
     }
 
 }
