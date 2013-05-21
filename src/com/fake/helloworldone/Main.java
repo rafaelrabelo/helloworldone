@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Hello World One");
         System.out.println("modified from original project");
         System.out.println("first commit with egit");
+        System.out.println("commit from user x");
         System.out.println("y");
         
     }
